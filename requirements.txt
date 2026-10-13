@@ -6,3 +6,8 @@ joblib
 flask
 fastapi
 uvicorn[standard]
+pydantic>=2
+flask
+flask-smorest
+marshmallow
+gunicorn 
